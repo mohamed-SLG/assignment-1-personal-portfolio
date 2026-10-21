@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    background-color: rgb(213, 208, 208);
+}
+*{
+    box-sizing: border-box;
+}
+.f-l{
+    float: left;
+}
+.clear-fix{
+    clear:both;
+}
+.text-center{
+    
+    text-align:center;
+}
+.w-20{
+    width: 20%;
+}
+.c-w{
+    color: white;
+}
+.br-r{
+    border-radius: 20px;
+}
+.m-10{
+    margin: 10px;
+}
+.w-80{
+    width: 80%;
+}
+.w-25{
+    width: 25%;
+}
+.m-30{
+    margin: 30px;
+}
+.section{
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 5px;
+}
+.c-lb{
+    background-color: rgb(143, 232, 232);
+    
+}
+.section1{
+    background-color: #18487B;
+    padding-right: 30px;
+
+}
+.button{
+    background-color: #0B65AD;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    margin: 5px;
+    
+    
+}
+.buttons{
+    margin: auto;
+    padding-left: 290px;
+}
+.section2{
+    background-color: rgb(255, 255, 255);
+    padding-left: 20px;
+}
+.pic{
+    width: 20%;
+    margin-right: 10px;
+}
+.dec{
+    width: 65%;
+}
+.pic img{
+    border-radius: 50%;
+    width: 100%;
+}
+.section3{
+    background-color: rgb(255, 255, 255);
+    padding-left: 20px;
+}
+.container{
+     width: 100%;
+    
+    
+}
+.p-20{
+    padding: 20px;
+}
+.p-10{
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.section4{
+    background-color: rgb(255, 255, 255);
+    padding-left: 20px;
+}
+.w-50{
+    width: 50%;
+}
+.exp1{
+    background-color: #F8FAFC;
+    border-left: 10px solid #DCEEFF;
+}
+.exp2{
+    background-color: #F8FAFC;
+    border-left: 10px solid #DCEEFF;
+}
+.pic2 img{
+    width: 50%;
+    margin-right: 10px;
+    position: relative;
+    left: 25%;
+}
+.pic3 img{
+    width: 50%;
+    margin-right: 10px;
+     position: relative;
+    left: 25%;
+}
+.m-b-10{
+    margin-bottom: 10px;
+}
+
+.pic2{
+    margin-top: 20px;
+}
+.pic3{
+    margin-top: 20px;
+}
+.section5{
+    background-color: #18487B;
+    padding-left: 20px;
+}
+.section6{
+    background-color: #071A35;
+}
+span{
+    color: #0B65AD;
+}
+.dec2 {
+    background-color: #F8FAFC;
+}
+.blue {
+    color: #0B65AD;
+}
